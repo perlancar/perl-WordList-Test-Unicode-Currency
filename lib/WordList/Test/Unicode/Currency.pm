@@ -6,6 +6,8 @@ package WordList::Test::Unicode::Currency;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: Currency symbols
 
