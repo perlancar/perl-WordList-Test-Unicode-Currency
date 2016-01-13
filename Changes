@@ -1,5 +1,10 @@
 Revision history for WordList-Test-Unicode-Currency
 
+0.03    2016-01-13 (PERLANCAR)
+
+	- [Bugfix] Need 'use utf8'.
+
+
 0.02    2016-01-13 (PERLANCAR)
 
         - No functional changes.
