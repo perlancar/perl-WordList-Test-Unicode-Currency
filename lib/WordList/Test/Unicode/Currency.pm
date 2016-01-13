@@ -3,6 +3,8 @@ package WordList::Test::Unicode::Currency;
 # DATE
 # VERSION
 
+use utf8;
+
 use WordList;
 our @ISA = qw(WordList);
 
